@@ -1,5 +1,5 @@
 
-package com.mycompany.maven_java;
+package MultiThreading;
 
 /**
  *

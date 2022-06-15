@@ -1,4 +1,4 @@
-package com.company;
+package inheritence_;
 
 import java.awt.*;
 

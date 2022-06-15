@@ -1,4 +1,4 @@
-package com.company;
+package inheritence_;
 
 public class Switch {
     public void run()

@@ -1,5 +1,5 @@
 
-package com.mycompany.maven_java;
+package MultiThreading;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

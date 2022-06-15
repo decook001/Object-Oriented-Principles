@@ -1,4 +1,4 @@
-package com.company;
+package inheritence_;
 
 public interface If1 {
     public void run();
